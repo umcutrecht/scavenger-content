@@ -1,0 +1,162 @@
+{
+	"headers": [
+		"‘De taveerne van Tael’",
+		"‘Zwaardvissen’",
+		"‘De taveerne van Tael’"
+	],
+	"successAnswers": [
+		"‘O Razende Roeland u mag van geluk spreken dat is correct!’",
+		"‘Het is werkelijk een mirakel, maar u heeft deze vuurproef waardig doorstaan’",
+		"‘Met ongeloof staar ik in uw heldere oogopslag. U is daadwerkelijk een afgezant van de wijsheid. U heeft volledig gelijk.’"
+	],
+	"successButtons": [
+		"Vervolg mijn weg met misplaatste trots",
+		"Met besmuikt glimlachje strijd ik door",
+		"Met brede grijns stap ik door"
+	],
+	"failAnswers": [
+		"‘Ieder zichzelf respecterende ridder zou zich moeten schamen voor deze uitkomst. Keer niet eerder terug alvorens u de juiste frasering heeft verworven.’",
+		"‘Een waardig antwoord, doch niet correct’",
+		"‘Ik zou bijna geloven dat uw weelderig wapperende blonde lokken representatief zijn voor uw intellect, maar probeert u het gerust nogmaals’"
+	],
+	"failButtons": [
+		"Druip af met schaamrood op kaken",
+		"Ook al heb ik gelijk, ik probeer ’t nogmaals",
+		"Ik geloof heilig in tweede kansen"
+	],
+	"icons": [
+		"/assets/taveerne.svg",
+		"/assets/castle-on-hill.svg",
+		"/assets/zwaardvissen.svg"
+	],
+	"questions": [
+		"Onderweg stop je voor een warm maal en een pint. De taveerne zit vol met ridders en schurken. Je bent naarstig op zoek naar informatie over het zwaard, maar wil zeker weten dat de geruchten die je hoort waardevol zijn tijdens je zoektocht.<br /><br />Waar ridders altijd de waarheid spreken, zullen schurken immer liegen. Er zijn 13 mannen en vrouwen aanwezig. Je vraagt aan iedereen: “Als je jezelf niet meetelt, hoeveel ridders zijn er hier dan aanwezig?”. Je krijgt de volgende antwoorden: “7, 4, 3, 6, 4, 0, 1, 2, 4, 4, 9, 2, 4”.<br /><br /><h2 className=\"text-align-center\">Hoeveel ridders zijn er in de taveerne om je te helpen bij je queeste?</h2>",
+		"Je schuilt in de bosjes vlakbij het kasteel. Voor het kasteel staat een bewaker. Er komt een ridder te paard aan galopperen. <br /><br /> Wie ben jij roept de bewaker.<br /><br />Ik ben ridder Bosch van Drakensteijn zegt de ridder. <br /><br />Twaalf, zegt de bewaker. Zes, antwoord de ridder.<br/><br/> De bewaker doet prompt de poort open en de ridder rijdt het kasteel binnen. Twee minuten later komt een vrouwtje met een mand met eieren aangelopen. <br/><br/>Wie is daar roept de bewaker traditiegetrouw. Dag bewaker, zegt het vrouwtje, zijn er nog eieren nodig? <br /><br />Acht, zegt de bewaker. Vier, zegt het vrouwtje. Kom dan maar gauw naar binnen, want het is koud! zegt de bewaker schappelijk. <br/><br/> Het vrouwtje is nog niet binnen of daar komt zowaar een koerier aangegaloppeerd. Die heeft kennelijk haast. Zes, roept de bewaker zonder dralen. Drie, roept de koerier terug, en draaft door de poort heen, die haastig is opengegooid. <br /><br /> Je maakt van de gelegenheid gebruik om snel weg te sluipen, en even later kom je via een omweg op de poort toegelopen. Wie is daar roept de bewaker. Ik ben Fulco de Minstreel, beste vriend, zeg je. Ik kom jouw heer opvrolijken met zang en dans.<br /><br />Tien, zegt de bewaker, op zijn qui vive.<br/><br/><h1 className=\"text-align-center\">Wat antwoord jij?</h1>",
+		"Bij de waterput kom je de echte Fulco de Minstreel tegen en die vertelt je het verhaal over twee vaders en twee zonen die uit vissen gingen. Ze vingen ieder één vis en namen deze mee naar huis. Het was een vermoeiende en zware reis. Ze verloren gelukkig geen vis, maar toch kwamen ze met maar 3 vissen thuis.<br/><br/>Fulco vindt het maar een vreemd verhaal en volgens hem klopte het dan ook niet. <br/><br/><h1 className=\"text-align-center\">Welk antwoord geef jij Fulco?</h1>"
+	],
+	"answers": [
+		"5",
+		"5",
+		"5",
+		"5"
+	],
+	"riddles": [{
+			"title": "Raadsel 1 - De Taveerne van Tael",
+			"text": "Onderweg stop je voor een warm maal en een pint. De taveerne zit vol met ridders en schurken. Je bent naarstig op zoek naar informatie over het zwaard, maar wil zeker weten dat de geruchten die je hoort waardevol zijn tijdens je zoektocht."
+		},
+		{
+			"title": "Raadsel 2 - Zwaardvissen",
+			"text": "Je schuilt in de bosjes vlakbij het kasteel. Voor het kasteel staat een bewaker. Er komt een ridder te paard aan galopperen."
+		},
+		{
+			"title": "Raadsel 3 - Zwaardvissen",
+			"text": "Bij de waterput kom je de echte Fulco de Minstreel tegen en die vertelt je het verhaal over twee vaders en twee zonen die uit vissen gingen."
+		}
+	],
+	"locations": [{
+			"title": "Locatie 1 - Zoek en gij zult vinden",
+			"text": "Deze locatie vraagt om eens haarfijn onder de loupe genomen te worden. Zonder je trouwe telescoop zou je hulpeloos zijn in deze zware uitdaging."
+		},
+		{
+			"title": "Locatie 2 - Zoek en gij zult vinden",
+			"text": "Deze locatie vraagt om eens haarfijn onder de loupe genomen te worden. Zonder je trouwe telescoop zou je hulpeloos zijn in deze zware uitdaging."
+		},
+		{
+			"title": "Locatie 3 - Zoek en gij zult vinden",
+			"text": "Deze locatie vraagt om eens haarfijn onder de loupe genomen te worden. Zonder je trouwe telescoop zou je hulpeloos zijn in deze zware uitdaging."
+		}
+	],
+	"routes": {
+		"walking": [{
+				"name": "fortRhijnauwen",
+				"lat": 52.07298602560384,
+				"lng": 5.174316378744239
+			},
+			{
+				"name": "theehuisRhijnauwen",
+				"lat": 52.070036099624346,
+				"lng": 5.178241161812194
+			},
+			{
+				"name": "kruisPuntKoningsWeg",
+				"lat": 52.06931269735732,
+				"lng": 5.151277558355509
+			},
+			{
+				"name": "Mereveld",
+				"lat": 52.06262593211538,
+				"lng": 5.150590045485306
+			}
+		],
+		"driving": [{
+				"name": "ParkeerplaatsKampongTennis",
+				"lat": 52.07168889246647,
+				"lng": 5.149355872103212
+			},
+			{
+				"name": "theehuisRhijnauwen",
+				"lat": 52.070036099624346,
+				"lng": 5.178241161812194
+			},
+			{
+				"name": "kruisPuntKoningsWeg",
+				"lat": 52.06931269735732,
+				"lng": 5.151277558355509
+			},
+			{
+				"name": "Mereveld",
+				"lat": 52.06262593211538,
+				"lng": 5.150590045485306
+			}
+		],
+		"biking": [{
+				"name": "theehuisRhijnauwen",
+				"lat": 52.070036099624346,
+				"lng": 5.178241161812194
+			},
+			{
+				"name": "NieuwAmelisweerd",
+				"lat": 52.07100304603198,
+				"lng": 5.15751169858484
+			},
+			{
+				"name": "kruisPuntKoningsWeg",
+				"lat": 52.06931269735732,
+				"lng": 5.151277558355509
+			},
+			{
+				"name": "Mereveld",
+				"lat": 52.06262593211538,
+				"lng": 5.150590045485306
+			}
+		],
+		"publicTransport": [{
+				"name": "TramhalteGalgenwaard",
+				"lat": 52.079107196669284,
+				"lng": 5.150084908272662
+			},
+			{
+				"name": "ParkeerplaatsKampongTennis",
+				"lat": 52.07168889246647,
+				"lng": 5.149355872103212
+			},
+			{
+				"name": "kruisPuntKoningsWeg",
+				"lat": 52.06931269735732,
+				"lng": 5.151277558355509
+			},
+			{
+				"name": "Mereveld",
+				"lat": 52.06262593211538,
+				"lng": 5.150590045485306
+			}
+		]
+	},
+	"codes": {
+		"AQL9FY": "1",
+		"CXJB22": "2",
+		"VJKDSO": "3",
+		"GSH5JK": "4",
+		"WRE6OP": "5"
+	}
+}
