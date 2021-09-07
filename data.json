@@ -41,28 +41,28 @@
 		"5"
 	],
 	"riddles": [{
-			"title": "Raadsel 1 - De Taveerne van Tael",
+			"title": "Opdracht 1a - De Taveerne van Tael",
 			"text": "Onderweg stop je voor een warm maal en een pint. De taveerne zit vol met ridders en schurken. Je bent naarstig op zoek naar informatie over het zwaard, maar wil zeker weten dat de geruchten die je hoort waardevol zijn tijdens je zoektocht."
 		},
 		{
-			"title": "Raadsel 2 - De Poortwachter",
+			"title": "Opdracht 2a - De Poortwachter",
 			"text": "Je schuilt in de bosjes vlakbij het kasteel. Voor het kasteel staat een bewaker. Er komt een ridder te paard aan galopperen."
 		},
 		{
-			"title": "Raadsel 3 - Zwaardvissen",
+			"title": "Opdracht 3a - Zwaardvissen",
 			"text": "Bij de waterput kom je Fulco de Minstreel tegen en die vertelt je het verhaal over twee vaders en twee zonen die uit vissen gingen."
 		}
 	],
 	"locations": [{
-			"title": "Locatie 1 - Zoek en gij zult vinden",
+			"title": "Opdracht 1b Zoek en gij zult vinden",
 			"text": "Deze locatie vraagt om eens haarfijn onder de loupe genomen te worden. Zonder je trouwe telescoop zou je hulpeloos zijn in deze zware uitdaging."
 		},
 		{
-			"title": "Locatie 2 - Zoek en gij zult vinden",
+			"title": "Opdracht 2b - Zoek en gij zult vinden",
 			"text": "Deze locatie vraagt om eens haarfijn onder de loupe genomen te worden. Zonder je trouwe telescoop zou je hulpeloos zijn in deze zware uitdaging."
 		},
 		{
-			"title": "Locatie 3 - Zoek en gij zult vinden",
+			"title": "Opdracht 3b - Zoek en gij zult vinden",
 			"text": "Deze locatie vraagt om eens haarfijn onder de loupe genomen te worden. Zonder je trouwe telescoop zou je hulpeloos zijn in deze zware uitdaging."
 		}
 	],
