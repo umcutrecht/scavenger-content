@@ -68,9 +68,9 @@
 	],
 	"routes": {
 		"walking": [{
-				"name": "fortRhijnauwen",
-				"lat": 52.07298602560384,
-				"lng": 5.174316378744239
+				"name": "theehuisRhijnauwen",
+				"lat": 52.07018778427251,
+				"lng": 5.178530840717049
 			},
 			{
 				"name": "theehuisRhijnauwen",
