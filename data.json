@@ -89,49 +89,49 @@
 			}
 		],
 		"driving": [{
-				"name": "ParkeerplaatsKampongTennis",
-				"lat": 52.07168889246647,
-				"lng": 5.149355872103212
+				"name": "deMoestuin",
+				"lat": 52.078087480975775,
+				"lng": 5.151808246780699
 			},
 			{
 				"name": "theehuisRhijnauwen",
-				"lat": 52.070036099624346,
-				"lng": 5.178241161812194
+				"lat": 52.07018778427251, 
+				"lng": 5.178530840717049
 			},
 			{
-				"name": "kruisPuntKoningsWeg",
-				"lat": 52.06931269735732,
-				"lng": 5.151277558355509
+				"name": "romeinseWachttoren",
+				"lat": 52.05645390795103,
+				"lng": 5.1665451211472195
 			},
 			{
 				"name": "Mereveld",
-				"lat": 52.06262593211538,
-				"lng": 5.150590045485306
+				"lat": 52.06244036948642,
+				"lng": 5.150214884286325
 			}
 		],
 		"biking": [{
-				"name": "theehuisRhijnauwen",
-				"lat": 52.070036099624346,
-				"lng": 5.178241161812194
+				"name": "tuijnderijVollegrond",
+				"lat": 52.06978810414624,
+				"lng": 5.158144092529288
 			},
 			{
-				"name": "NieuwAmelisweerd",
-				"lat": 52.07100304603198,
-				"lng": 5.15751169858484
+				"name": "deVeldkeuken",
+				"lat": 52.067469622779946, 
+				"lng": 5.170342180586183
 			},
 			{
-				"name": "kruisPuntKoningsWeg",
-				"lat": 52.06931269735732,
-				"lng": 5.151277558355509
+				"name": "romeinsewachttoren",
+				"lat": 52.05645390795103,
+				"lng": 5.1665451211472195
 			},
 			{
 				"name": "Mereveld",
-				"lat": 52.06262593211538,
-				"lng": 5.150590045485306
+				"lat": 52.06244036948642,
+				"lng": 5.150214884286325
 			}
 		],
 		"publicTransport": [{
-				"name": "TramhalteGalgenwaard",
+				"name": "deMoestuin",
 				"lat": 52.078087480975775,
 				"lng": 5.151808246780699
 			},
@@ -141,7 +141,7 @@
 				"lng": 5.148981823636505
 			},
 			{
-				"name": "kruisPuntKoningsWeg",
+				"name": "Amelisweerd",
 				"lat": 52.06961801331602,
 				"lng": 5.152111205980552
 			},
